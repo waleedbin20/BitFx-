@@ -23,3 +23,4 @@ Developed using **ASP.NET core MVC**
 
 
 # **Architecture**
+![Macro view of entire system](https://user-images.githubusercontent.com/76840465/179398704-d1c7c4d8-99f0-4241-8173-10625d1a5893.png)
