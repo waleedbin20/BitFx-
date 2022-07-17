@@ -1,4 +1,4 @@
-# ** BitFx**
+# **BitFx**
 
 This is a mobile application for a trading company which allows customers to buy trading courses and view them on the app.
 
